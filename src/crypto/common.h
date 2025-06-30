@@ -6,6 +6,7 @@
 #define BITCOIN_CRYPTO_COMMON_H
 
 #include <compat/endian.h>
+#include <crypto/quantum.h>
 
 #include <concepts>
 #include <cstddef>
